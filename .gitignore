@@ -1,0 +1,4 @@
+# ignore output files
+*.list
+*.lua
+*popular_modules.txt

@@ -1,0 +1,838 @@
+	sum 	toolchain	unused	deprecate?	flag for upgrade, then deprecate?	flag for upgrade only	hide only	comments
+ACTC/1.1-GCCcore-6.4.0	727							
+ADF/2017.107	21373	system						
+AFNI/2019.0.24	85	system						
+ANTLR/2.7.7-iomkl-2018a-Python-3.6.4	472	2018a				Y		
+APR-util/1.6.1-iomkl-2018a	79	2018a				Y		
+APR/1.6.3-iomkl-2018a	79	2018a				Y		
+ATK/2.28.1-foss-2018a	39014	2018a				Y		
+AmberTools/17-iomkl-2018a	760	2018a				Y		
+Armadillo/8.400.0-foss-2018a	2845	2018a				Y		
+Armadillo/8.400.0-foss-2018a-Python-3.6.4	42277	2018a				Y		
+Arrow/0.12.0-foss-2018b-Python-2.7.15	0	2018b	Y	Y				
+Autoconf/2.69-GCCcore-5.4.0	0	2016b	Y	Y				
+Autoconf/2.69-GCCcore-6.4.0	2	2018a	Y	Y				
+Autoconf/2.69-GCCcore-7.3.0	4	2018b	Y					
+Autoconf/2.69-foss-2016b	0	2016b	Y	Y				
+Automake/1.15-GCCcore-5.4.0	0	2016b	Y	Y				
+Automake/1.15-foss-2016b	0	2016b	Y	Y				
+Automake/1.15.1-GCCcore-6.4.0	2	2018a	Y	Y				
+Automake/1.16.1-GCCcore-7.3.0	3	2018b	Y					
+Autotools/20150215-GCCcore-5.4.0	0	2016b	Y	Y				
+Autotools/20150215-foss-2016b	0	2016b	Y	Y				
+Autotools/20170619-GCCcore-6.4.0	0	2018a	Y	Y				
+Autotools/20180311-GCCcore-7.3.0	3	2018b	Y					
+Avogadro/1.2.0-foss-2018a	1	2018a	Y	Y				
+BOSS/0615	11	system						
+BOSS/0919	209	system						
+BWA/0.7.17-foss-2018a	988	2018a				Y		
+BamTools/2.5.1-foss-2018a	1	2018a	Y	Y				
+BerkeleyGW/2.0.0-foss-2018b	1	2018b	Y	Y				
+BerkeleyGW/2.1.0-foss-2018b	1028	2018b						
+Bison/2.7	0	system	Y				hide	
+Bison/3.0.4	0	system	Y				hide	
+Bison/3.0.4-GCCcore-5.4.0	0	2016b	Y				hide	
+Bison/3.0.4-GCCcore-6.4.0	0	2018a	Y				hide	
+Bison/3.0.4-GCCcore-7.3.0	0	2018b	Y				hide	
+Bison/3.0.4-foss-2016b	0	2016b	Y	Y				
+Bison/3.0.5-GCCcore-6.4.0	0	2018a	Y				hide	
+Bison/3.0.5-GCCcore-7.3.0	341	2018b					hide	
+Bison/3.7.1	1	system	Y				hide	
+Bison/3.7.1-GCCcore-10.2.0	1	system	Y				hide	
+Boost.Python/1.67.0-foss-2018b-Python-3.6.6	1434	2018b						
+Boost/1.58.0-iomkl-2016.09-GCC-5.4.0-2.26	1287	2016b		Y				
+Boost/1.61.0-foss-2016b	1045	2016b		Y				
+Boost/1.63.0-foss-2016b-Python-2.7.13	11	2016b		Y				
+Boost/1.66.0-foss-2018a	143669	2018a						
+Boost/1.66.0-intel-2018a	6	2018a	Y	Y				
+Boost/1.67.0-foss-2018b	3583	2018b						
+Bowtie2/2.3.4.1-foss-2018a	3	2018a	Y	Y				
+CASA/5.1.0-74	46	system						
+CASA/5.4.1-32	0	system	Y					
+CDO/1.9.5-iomkl-2018a	292	2018a				Y		
+CESM-deps/2-iomkl-2018a	330	2018a				Y		
+CESM/1.2.2.1-iomkl-2018a	1	2018a	Y				hide	
+CESM/2.1.0-iomkl-2018a	45	2018a				Y		
+CFITSIO/3.41-GCCcore-5.4.0	29	2016b		Y				
+CFITSIO/3.41-foss-2018a	1277	2018a				Y		
+CGAL/4.11.1-foss-2018a	152	2018a		Y				who is using this?
+CGAL/4.11.1-foss-2018b-Python-3.6.6	1390	2018b						
+CHARMM/42b1-iomkl-2016.09-GCC-5.4.0-2.26	2	2016b	Y	Y				
+CLHEP/2.4.1.0-foss-2018a	409	2018a				Y		
+CMake/3.10.1-GCCcore-6.4.0	33	2018a		Y				
+CMake/3.10.2-GCCcore-6.4.0	16	2018a		Y				
+CMake/3.11.4-GCCcore-7.3.0	2	2018b	Y					
+CMake/3.12.1-GCCcore-6.4.0	13148	2018a						
+CMake/3.12.1-GCCcore-7.3.0	25816	2018b						
+CMake/3.12.1-GCCcore-8.2.0	4	system	Y					
+CMake/3.15.3-GCCcore-7.3.0	53770	2018b						
+CMake/3.16.4-GCCcore-10.2.0	82988	system						
+CMake/3.5.2-GCCcore-5.4.0	1	2016b	Y	Y				
+CMake/3.6.1-GCCcore-5.4.0	0	2016b	Y	Y				
+CMake/3.7.1-GCCcore-5.4.0	38951	2016b		Y				
+CMake/3.9.1	0	system	Y				hide	
+CMake/3.9.1-GCCcore-6.4.0	73934	2018a				Y		
+CMake/3.9.5-GCCcore-6.4.0	0	2018a	Y					
+CMake/3.9.6	281	system					hide	
+CP2K/6.1-foss-2018b	338	2018b						
+CTFFIND/4.1.13	0	system	Y	Y				
+CUDA/10.0.130	1272	system						
+CUDA/10.1.105	17958	system						
+CUDA/9.0.176	1009	system						
+CUDA/9.1.85	368	system						
+CUDA/9.1.85-GCC-6.4.0-2.28	17	2018a		Y				
+CUDA/9.2.148.1	1224	system						
+CUDA/9.2.88-GCC-7.3.0-2.30	14	2018b		Y				
+Chimera/1.12-linux_x86_64	431	system						
+DBus/1.13.6-GCCcore-6.4.0	39696	2018a				Y		what is using this? Paraview, Octave and gnuplot via Qt5
+DBus/1.13.6-GCCcore-7.3.0	1413	2018b						
+DFTB+/17.1-iomkl-2018a-Python-2.7.14	0	2018a	Y	Y				
+DFTB+/19.1-iomkl-2018a-Python-2.7.14	266	2018a						
+DMTCP/2.6.0-foss-2018a	0	2018a	Y	Y				
+DOLFIN/2018.1.0.post1-foss-2018b-Python-3.6.6	1402	2018b						
+DSSP/3.1.4-intel-2018a	5	2018a	Y	Y				
+Desmond/2020.1	20	system						
+DistributedFFT/local	2	system	Y	Y				
+Doxygen/1.8.11-GCCcore-5.4.0	0	2016b	Y	Y			hide	
+Doxygen/1.8.13-GCCcore-6.4.0	0	2018a	Y	Y				
+Doxygen/1.8.14-GCCcore-6.4.0	0	2018a	Y	Y				
+Doxygen/1.8.14-GCCcore-7.3.0	2	2018b	Y					
+ELPA/2018.05.001-intel-2018b	198	2018b						
+ESMF/7.1.0r-iomkl-2018a	80	2018a				Y		
+EasyBuild/3.8.1	0	system	Y	Y				
+EasyBuild/3.9.3	0	system	Y	Y				
+EasyBuild/4.0.0	1	system	Y	Y				
+EasyBuild/4.1.2	0	system	Y	Y				
+EasyBuild/4.2.2	19	system		Y				
+EasyBuild/4.3.0	28	system						
+Eigen/3.2.8	2	system	Y	Y				
+Eigen/3.3.4	6542	system						
+Eigen/3.3.7	83782	system						
+Emacs/25.3-GCCcore-6.4.0	1	2018a	Y	Y				
+Emacs/26.2-GCCcore-5.4.0	651	2016b		Y				
+Emacs/26.2-GCCcore-6.4.0	389	2018a			Y			
+EnergyPlus/9.1.0	0	system	Y	Y				
+FFC/2018.1.0-foss-2018b-Python-3.6.6	1423	2018b						
+FFTW/2.1.5-iomkl-2018b	222	2018b						who is using this?
+FFTW/3.3.4-gompi-2016b	3129	2016b		Y?				who is using this?
+FFTW/3.3.4-iomkl-2016.09-GCC-5.4.0-2.26	34764	2016b		Y?				who is using this?
+FFTW/3.3.7-GCC-6.4.0-2.28-serial	1	2018a	Y	Y?				
+FFTW/3.3.7-gompi-2018a	247332	2018a						
+FFTW/3.3.8-gompi-2018b	16405	2018b						
+FFTW/3.3.8-gompic-2018b	14	2018b						
+FFTW/3.3.8-intel-2018b	59	2018b						
+FFmpeg/3.4.2-foss-2018a	39851	2018a				Y		
+FHI-aims/171221_1-iomkl-2018a	0	2018a	Y	Y				
+FHI-aims/171221_1-iomkl-2018b	70	2018b						
+FHI-aims/200112_2-iomkl-2018b	1	2018b	Y					
+FIAT/2018.1.0-foss-2018b-Python-3.6.6	1438	2018b						
+FLTK/1.3.4-foss-2018a	1361	2018a				Y		
+FSL/5.0.10-centos7_64	65	system						
+FSL/6.0.0-centos7_64	51	system						
+FSL/6.0.3-centos7_64	12	system						
+FastQC/0.11.7-Java-1.8.0_92	299	system						
+FreeSurfer/5.3.0	0	system	Y	Y				
+FreeSurfer/5.3.0-HCP	37	system						
+FreeSurfer/6.0.0	160	system						
+FreeXL/1.0.3-GCCcore-6.4.0	39111	2018a				Y		
+FriBidi/1.0.1-foss-2018a	0	2018a	Y	Y				
+GAMESS-US/20170420-R1-intel-2016b	2	2016b	Y	Y				
+GATK/4.1.8.1-Java-1.8	334	system						
+GCC/10.2.0	47380	system						
+GCC/5.4.0-2.26	18622	2016b					hide	
+GCC/6.4.0-2.28	266870	2018a					hide	
+GCC/7.3.0-2.30	112035	2018b						
+GCCcore/10.2.0	83225	system						
+GCCcore/5.4.0	25706	2016b					hide	
+GCCcore/6.4.0	321182	2018a					hide	
+GCCcore/7.3.0	148084	2018b						
+GCCcore/8.2.0	81	system						
+GConf/3.2.6-foss-2018a	39024	2018a						
+GDAL/2.2.3-foss-2016b	12	2016b		Y				
+GDAL/2.2.3-foss-2018a-Python-2.7.14	9465	2018a						
+GDAL/2.2.3-foss-2018b-Python-3.7.0	954	2018b						
+GDAL/3.1.0-foss-2018a-Python-3.6.4	45904	2018a						
+GEOS/3.6.2-foss-2018a-Python-2.7.14	46468	2018a						
+GEOS/3.6.2-foss-2018a-Python-3.6.4	46024	2018a						
+GEOS/3.6.2-foss-2018b-Python-3.7.0	954	2018b						
+GL2PS/1.4.0-foss-2018a	1896	2018a						is this a dep?
+GLM/0.9.9.0-GCCcore-6.4.0	4	2018a	Y	Y				
+GLPK/4.61-foss-2016b	12	2016b		Y				
+GLPK/4.65-GCCcore-6.4.0	626	2018a						is this a dep?
+GLib/2.49.5-foss-2016b	12	2016b		Y				
+GLib/2.51.2-foss-2016b	12	2016b		Y				
+GLib/2.54.3-GCCcore-6.4.0	40563	2018a						
+GLib/2.54.3-GCCcore-7.3.0	2686	2018b						
+GMP/6.1.0-foss-2016b	321	2016b		Y				
+GMP/6.1.1-foss-2016b	97	2016b		Y				
+GMP/6.1.2-GCCcore-6.4.0	237985	2018a						
+GMP/6.1.2-GCCcore-7.3.0	5393	2018b						
+GObject-Introspection/1.51.3-foss-2016b	12	2016b		Y				
+GObject-Introspection/1.54.1-foss-2018a-Python-2.7.14	39020	2018a						
+GObject-Introspection/1.54.1-foss-2018b-Python-2.7.15	0	2018b	Y					
+GRASS/7.6.0-foss-2018a-Python-2.7.14	1972	2018a						
+GRASS/7.8.0-foss-2018a-Python-3.6.4	37051	2018a						
+GROMACS/2016.5-intel-2018a	427	2018a			Y?			reinstall 2016.5 with foss
+GROMACS/2019.3-foss-2018a	3905	2018a						
+GROMACS/2019.3-foss-2018amulti-precision	2	2018a	Y	Y				
+GROMACS/2019.3-foss-2018b	1918	2018b						
+GROMACS/2019.3-foss-2018b-CUDA-10.0.130	56	2018b						
+GROMACS/2019.3-foss-2018b-wlmfit	6	2018b	Y					
+GROMACS/5.1.4-foss-2016b-hybrid	27	2016b			Y			do they still need this?
+GSL/2.1-foss-2016b	265	2016b		Y				
+GSL/2.3-GCCcore-6.4.0	120980	2018a						
+GSL/2.3-foss-2016b	249	2016b		Y				
+GSL/2.3-iccifort-2016.3.210-GCC-5.4.0-2.26	1773	2016b		Y				
+GSL/2.4-GCCcore-6.4.0	0	2018a	Y	Y				
+GSL/2.5-GCC-7.3.0-2.30	1313	2018b						
+GSL/2.5-iccifort-2018.3.222-GCC-7.3.0-2.30	2079	2018b						
+GST-plugins-base/0.10.36-foss-2018a	39030	2018a						
+GStreamer/0.10.36-foss-2018a	39035	2018a						
+GTK+/2.24.32-foss-2018a	39028	2018a						
+GULP/5.2-intel-2018b	9	2018b	Y					
+Gaussian/09-E.01	4836	system						
+Gaussian/16-A.03_SSE4	3144	system						
+Gaussian/16-B.01_AVX	1649	system						
+Gaussian/16-C.01_AVX	14415	system						
+Gctf/1.18_b2-fosscuda-2018b_sm37_cu9.2	0	2018b	Y	Y				
+Gdk-Pixbuf/2.36.11-foss-2018a	38997	2018a						
+Gdk-Pixbuf/2.36.12-foss-2018b	0	2018b	Y					
+Geant4/10.5-foss-2018a	796	2018a						
+Ghostscript/9.22-GCCcore-6.4.0-cairo-1.14.12	627	2018a						
+Ghostscript/9.23-GCCcore-6.4.0	712	2018a						
+Ghostscript/9.23-GCCcore-7.3.0	947	2018b						
+Globus-CLI/1.11.0-foss-2016b	8	2016b	Y	Y				
+Globus-CLI/1.2.3	1	system	Y		Y			
+Grace/5.1.25-foss-2018a-5build1	183	2018a						
+GraphicsMagick/1.3.28-foss-2018a	626	2018a						
+Guile/1.8.8-GCCcore-6.4.0	0	2018a	Y	Y				
+Guile/1.8.8-GCCcore-7.3.0	338	2018b						
+Guile/2.2.2-GCCcore-6.4.0	73873	2018a						
+Gurobi/7.5.1	143	system						
+Gurobi/9.0.1	715	system						
+HDF5/1.10.1-GCCcore-6.4.0-serial	73940	2018a		Y?				who is using this?
+HDF5/1.10.1-foss-2016b-serial	72	2016b		Y				
+HDF5/1.10.1-foss-2018a	130350	2018a		Y?				who is using this?
+HDF5/1.10.1-iomkl-2018a	37212	2018a		Y?				who is using this?
+HDF5/1.10.2-GCCcore-8.2.0	4	system	Y	Y				
+HDF5/1.10.2-foss-2018b	4812	2018b						
+HDF5/1.10.2-intel-2018b	198	2018b						
+HDF5/1.10.2-iomkl-2018b	507	2018b						
+HDF5/1.8.12-foss-2016b	1	2016b	Y	Y				
+HDF5/1.8.18-foss-2016b	11	2016b		Y				
+HEAsoft/6.26.1-GCCcore-6.4.0	0	2018a	Y	Y				
+HOOMD-blue/2.6.0-foss-2018a-CUDA-10.0.130	1	2018a	Y	Y				
+HarfBuzz/1.4.3-foss-2016b	12	2016b		Y				
+HarfBuzz/1.7.5-foss-2018a	39718	2018a			Y?			who is using this?
+Harminv/1.4.1-foss-2018a	73824	2018a			Y?			who is using this?
+HydroGeoSphere/2018.11	0	system	Y	Y				
+HydroGeoSphere/2019.03	5	system	Y	Y				
+HydroGeoSphere/2019.10	0	system	Y		Y			
+Hypre/2.15.1-foss-2018b	3389	2018b						
+ICU/61.1-GCCcore-7.3.0	947	2018b						
+IDL/8.0	0	system	Y	Y				
+IGV/2.5.0-Java-1.8.0_92	30	system						
+IMSAM/2013-iomkl-2018a	4	2018a	Y		Y			
+IQ-TREE/1.6.12	196	system						
+ImageMagick/7.0.7-30-GCCcore-6.4.0	727	2018a			Y?			who is using this?
+ImageMagick/7.0.8-11-GCCcore-7.3.0	947	2018b						
+Inspector/2019_update5	2	system	Y	Y				
+JAGS/4.2.0-foss-2016b	12	2016b		Y				
+JAGS/4.3.0-foss-2018a	0	2018a	Y	Y	Y			
+JANPA/2.0.2	64	system						
+JUnit/4.12-Java-1.8.0_92	0	system	Y	Y?				
+JasPer/2.0.14-GCCcore-6.4.0	55896	2018a		Y?				who is using this?
+JasPer/2.0.14-GCCcore-7.3.0	997	2018b						
+Java/1.8.0_212	1285	system						
+Java/1.8.0_92	8180	system						
+Java/1.9.0.4	209	system						
+Julia/1.0.0-linux-x86_64	567	system						
+Julia/1.2.0-linux-x86_64	304	system						
+Julia/1.3.1-linux-x86_64	169	system						
+Julia/1.4.2-linux-x86_64	78	system						
+Knitro/10.1.2	475	system						
+Knitro/10.3.0	97	system						
+Knitro/12.0.0	342	system						
+LAME/3.100-GCCcore-6.4.0	39800	2018a			Y?			who is using this?
+LAMMPS/patch_18Sep2018-foss-2018a	149	2018a			Y?			
+LLVM/3.8.1-foss-2016b	12	2016b		Y				
+LLVM/5.0.1-GCCcore-6.4.0	41702	2018a		Y?				who is using this?
+LLVM/6.0.0-GCCcore-7.3.0	2387	2018b						
+Leptonica/1.78.0-GCCcore-6.4.0	25	2018a			Y			
+LibTIFF/4.0.6-foss-2016b	25	2016b		Y				
+LibTIFF/4.0.9-GCCcore-6.4.0	56279	2018a		Y?				who is using this?
+LibTIFF/4.0.9-GCCcore-7.3.0	954	2018b						
+LibTIFF/4.0.9-fosscuda-2018b	0	2018b	Y	Y				
+LibUUID/1.0.3-GCCcore-6.4.0	415	2018a						
+Libint/1.1.6-foss-2018b	339	2018b						
+LittleCMS/2.9-GCCcore-6.4.0	712	2018a						
+LittleCMS/2.9-GCCcore-7.3.0	947	2018b						
+Lua/5.3.4-GCCcore-6.4.0	49	2018a						
+M4/1.4.16	0	system	Y				hide	
+M4/1.4.17	0	system	Y				hide	
+M4/1.4.17-GCC-5.4.0-2.26	0	2016b	Y				hide	
+M4/1.4.17-GCCcore-5.4.0	0	2016b	Y				hide	
+M4/1.4.17-foss-2016b	0	2016b	Y	Y				
+M4/1.4.18	1	system	Y				hide	
+M4/1.4.18-GCCcore-10.2.0	1	system	Y					
+M4/1.4.18-GCCcore-5.4.0	50	2016b					hide	
+M4/1.4.18-GCCcore-6.4.0	34	2018a		Y				
+M4/1.4.18-GCCcore-7.3.0	343	2018b						
+MAFFT/7.429-foss-2018b-with-extensions	35	2018b						
+MAFFT/7.471-foss-2018b-with-extensions	1	2018b	Y	Y				
+MATLAB/2016b	32768	2016b						
+MATLAB/2017b	1895	system						
+MATLAB/2018b	7608	2018b						
+MATLAB/2019a	53443	system						
+MATLAB/2019a-parallel	121	system						
+MATLAB/2019b	1976	system						
+MATLAB/2020a	4984	system						
+METIS/5.1.0-GCCcore-6.4.0	627	2018a						
+METIS/5.1.0-GCCcore-7.3.0	3421	2018b						
+MODFLOW-2005/1.12-GCCcore-5.4.0	0	2016b	Y	Y				
+MODFLOW-2005/1.12-GCCcore-6.4.0	0	2018a	Y	Y				
+MODFLOW-2005/1.12-GCCcore-7.3.0	1	2018b	Y					
+MODFLOW-NWT/1.1.4-GCCcore-7.3.0	0	2018b	Y	Y				
+MODFPATH/7.2.001-GCCcore-7.3.0	0	2018b	Y	Y				
+MODPATH/7.2.001-GCCcore-7.3.0	0	2018b	Y	Y				
+MPAS-A/7.0-iomkl-2018a	0	2018a	Y	Y				
+MPB/1.8.0-foss-2018a	73642	2018a			Y?			who is using this?
+MPFR/4.0.1-GCCcore-6.4.0	98198	2018a		Y				who is using this?
+MPFR/4.0.1-GCCcore-7.3.0	1508	2018b						
+MPSolve/3.1.7-GCCcore-6.4.0	80887	2018a			Y			who is using this?
+MRtrix3/3.0_RC3-foss-2018a	10	2018a		Y				
+MUMPS/5.2.1-foss-2018b-metis	3390	2018b						
+Macaulay2/1.11	0	system	Y	Y				
+Mako/1.0.4-foss-2016b-Python-2.7.12	0	2016b	Y	Y				
+Mako/1.0.7-foss-2018a-Python-2.7.14	242	2018a			Y			who is using this?
+Mako/1.0.7-foss-2018b-Python-3.6.6	0	2018b	Y	Y				
+Mathematica/11.3.0	201	system						
+Mathematica/12.0.0	37310	system						
+Mathematica/12.1.0	595	system						
+Mathematica/12.1.1	61587	system						
+Maven/3.3.9	1	system	Y	Y				
+Meep/1.7.0-foss-2018a	73698	2018a			Y			who is using this?
+Mercurial/4.9-foss-2018a-Python-2.7.14	0	2018a	Y	Y				
+Mesa/12.0.2-foss-2016b	12	2016b		Y				
+Mesa/17.3.6-foss-2018a	41775	2018a		Y				who is using this?
+Mesa/18.1.1-foss-2018b	2363	2018b						
+MicroMagic/161031	0	system	Y	Y				
+MotionCor2/1.2.2-fosscuda-2018b	0	2018b	Y	Y				
+MrBayes/3.2.6-foss-2016b	163	2016b			Y			
+NAG/26-GCCcore-6.4.0	1	2018a	Y	Y				
+NAMD/2.13-GCC-7.3.0-2.30-OpenMPI-3.1.1	623	2018b						
+NAMD/2.13-ibverbs	226	system						
+NAMD/2.13-ibverbs-smp	15	system						
+NAMD/2.13-multicore	1088	system						
+NAMD/2.13-multicore-CUDA	31	system						
+NASM/2.11.08-GCCcore-5.4.0	652	2016b		Y				
+NASM/2.12.02-foss-2016b	12	2016b		Y				
+NASM/2.13.03-GCCcore-6.4.0	79909	2018a		Y				who is using this?
+NASM/2.13.03-GCCcore-7.3.0	4885	2018b						
+NBO/6.0	79	system						
+NCL/6.6.2	298	system						
+NCO/4.7.6-iomkl-2018a	46	2018a		Y				
+NCO/4.8.1-iomkl-2018a	432	2018a			Y			
+NEdit/5.5-Linux-x86	261	system						
+NGSpice/31-gompi-2018b	0	2018b	Y	Y				
+NLopt/2.4.2-GCCcore-7.3.0	947	2018b						
+NLopt/2.6.1-GCCcore-7.3.0	8	2018b	Y	Y				
+NSPR/4.20-GCCcore-6.4.0	657	2018a		Y				
+NSPR/4.20-GCCcore-7.3.0	1416	2018b						
+NSS/3.39-GCCcore-6.4.0	657	2018a		Y				
+NSS/3.39-GCCcore-7.3.0	1415	2018b						
+Ninja/1.8.2-foss-2018a	1	2018a	Y	Y				
+OCaml/4.07.1-foss-2018b	2	2018b	Y	Y				
+ORCA/4.1.2-OpenMPI-2.1.2	657	system						
+ORCA/4.2.1-OpenMPI-2.1.2	1252	system						
+Octave/4.2.1-foss-2016b	0	2016b	Y	Y				
+Octave/4.2.1-foss-2018a	626	2018a			Y			
+OpenBLAS/0.2.18-GCC-5.4.0-2.26-LAPACK-3.6.1	5228	2016b		Y				who is using this?
+OpenBLAS/0.2.20-GCC-6.4.0-2.28	258635	2018a						
+OpenBLAS/0.3.1-GCC-7.3.0-2.30	93473	2018b						
+OpenBabel/2.4.1-foss-2018a-Python-2.7.14	374	2018a						
+OpenJPEG/2.3.0-GCCcore-7.3.0	0	2018b	Y	Y				
+OpenMPI/1.10.3-GCC-5.4.0-2.26	11162	2016b		Y				who is using this?
+OpenMPI/1.10.3-iccifort-2016.3.210-GCC-5.4.0-2.26	5081	2016b		Y				who is using this?
+OpenMPI/2.0.1-iccifort-2017.1.132-GCC-5.4.0-2.26	57	2016b		Y				who is using this?
+OpenMPI/2.1.2-GCC-6.4.0-2.28	270175	2018a					hide?	who is using this?
+OpenMPI/2.1.2-iccifort-2018.1.163-GCC-6.4.0-2.28	54749	2018a					hide?	who is using this?
+OpenMPI/3.1.1-GCC-7.3.0-2.30	17209	2018b						
+OpenMPI/3.1.1-GCC-7.3.0-2.30-CUDA-10.1.105	2	2018b	Y					
+OpenMPI/3.1.1-gcccuda-2018b	14	2018b						
+OpenMPI/3.1.1-iccifort-2018.3.222-GCC-7.3.0-2.30	16007	2018b						
+OpenMPI/3.1.1-iccifort-2018.3.222-GCC-7.3.0-2.30-64bitintegers	47	2018b						
+OpenPGM/5.2.122-foss-2016b	23	2016b			Y			
+PCRE/8.38-foss-2016b	12	2016b		Y				
+PCRE/8.39-foss-2016b	12	2016b		Y				
+PCRE/8.40-foss-2016b	12	2016b		Y				
+PCRE/8.41-GCCcore-6.4.0	81539	2018a						
+PCRE/8.41-GCCcore-7.3.0	6715	2018b						
+PETSc/3.9.3-foss-2018b	3385	2018b						
+PGI/17.10-GCC-6.4.0-2.28	138	2018a		Y				
+PIO/2.4.4-iomkl-2018a	0	2018a	Y	Y				
+PKTOOLS/2.6.7.6-foss-2018a	2855	2018a		Y				
+PKTOOLS/2.6.7.6-foss-2018a-Python-3.6.4	42150	2018a			Y			
+PLINK/1.90-beta6.9	652	system						
+PLINK/2.00-alpha2.3	1026	system						
+PLUMED/2.4.0-foss-2018a	0	2018a	Y	Y				
+PLUMED/2.4.2-foss-2018b	338	2018b						
+PLY/3.11-foss-2018b-Python-3.6.6	1377	2018b						
+PROJ/4.9.2-foss-2016b	12	2016b		Y				
+PROJ/5.0.0-foss-2018a	46177	2018a		Y				who is using this?
+PROJ/5.0.0-foss-2018b	954	2018b						
+PROJ/7.0.1-GCCcore-6.4.0	46035	2018a			Y			who is using this?
+Pango/1.41.1-foss-2018a	39731	2018a			Y			
+ParMETIS/4.0.3-foss-2018b	3388	2018b						
+ParaView/5.4.1-foss-2018a	24	2018a		Y				
+ParaView/5.4.1-foss-2018b-mpi	10	2018b						
+Perl/5.22.1-foss-2016b	861	2016b					hide	
+Perl/5.26.1-GCCcore-6.4.0	126647	2018a					hide	who is using this?
+Perl/5.28.0-GCCcore-7.3.0	5	2018b	Y					
+PnetCDF/1.9.0-iomkl-2018a	1491	2018a			Y			
+PostgreSQL/10.3-foss-2018a-Python-2.7.14	45	2018a		Y				
+PostgreSQL/9.6.1-foss-2016b	12	2016b		Y				
+Python/2.7.12-foss-2016b	90	2016b		Y				
+Python/2.7.13-foss-2016b	11	2016b		Y				
+Python/2.7.14-GCCcore-6.4.0-bare	328	2018a		Y				
+Python/2.7.14-foss-2018a	131774	2018a		Y				
+Python/2.7.14-iomkl-2018a	876	2018a		Y				
+Python/2.7.15-GCCcore-7.3.0-bare	3	2018b	Y					
+Python/2.7.15-foss-2018b	17	2018b						
+Python/2.7.15-intel-2018b	38	2018b		Y				
+Python/3.5.1-foss-2016b	321	2016b		Y				
+Python/3.6.4-foss-2018a	146825	2018a						
+Python/3.6.4-iomkl-2018a	5149	2018a						
+Python/3.6.6-foss-2018b	1461	2018b						
+Python/3.7.0-foss-2018b	3509	2018b						
+Python/3.7.0-fosscuda-2018b	10	2018b						
+Python/3.7.0-iomkl-2018b	12	2018b						
+Q-Chem/5.1-openmpi	2	system	Y	Y				
+Q-Chem/5.2-openmpi	8009	system						
+Q-Chem/5.2-openmpi-3.1.1	0	system	Y	Y				
+QCTOOL/2.0.6	2	system	Y	Y				
+Qhull/2015.2-GCCcore-6.4.0	627	2018a						
+Qt/4.8.7-foss-2018a	10	2018a						
+Qt5/5.10.1-foss-2018a	657	2018a						
+Qt5/5.10.1-foss-2018b	1409	2018b						
+QuantumESPRESSO/6.1-intel-2018a	1017	2018a						
+QuantumESPRESSO/6.5-intel-2018b	198	2018b						
+R/3.4.4-foss-2018a-X11-20180131	11883	2018a						
+R/3.5.0-foss-2016b-avx2	12	2016b		Y				
+R/3.5.3-foss-2018a-X11-20180131	19990	2018a						
+R/3.6.1-foss-2018b	947	2018b						
+R/3.6.1-foss-2018b-X11-20180604	3933	2018b						
+ROMS/3.7-iomkl-2018a	55	2018a						
+ROOT/6.14.06-foss-2018a-Python-3.6.4	3666	2018a						
+RStudio/1.1.463-foss-2018a-R-3.4.4-X11-20180131	22	2018a						
+RStudio/1.1.463-foss-2018a-R-3.5.3-X11-20180131	161	2018a						
+RStudio/1.2.5033	444	system						
+Rclone/1.47.0	101	system						
+Rclone/1.51.0	110	system						
+Rosetta/3.10	262	system						
+SAGA/6.0.0-foss-2018a	0	2018a	Y	Y				
+SAM-6.10.3-iomkl-2018b	43	2018b						
+SAMtools/1.7-foss-2018a	1047	2018a						
+SAOImageDS9/7.8.1	33	system						
+SCOTCH/6.0.6-foss-2018b	3418	2018b						
+SCons/3.0.1-iomkl-2018a-Python-2.7.14	0	2018a	Y	Y				
+SIRIUS/4.0.1	26	system						
+SLEPc/3.9.2-foss-2018b	1408	2018b						
+SQLite/3.13.0-foss-2016b	97	2016b		Y				
+SQLite/3.21.0-GCCcore-6.4.0	175342	2018a						
+SQLite/3.24.0-GCCcore-7.3.0	8983	2018b						
+SQLite/3.9.2-foss-2016b	320	2016b		Y				
+STAR/2.6.0c-foss-2018a	22	2018a						
+SUNDIALS/3.2.1-foss-2018b	1405	2018b						
+SWIG/3.0.12-foss-2018a-Python-2.7.14	1	2018a	Y	Y				
+SWIG/3.0.12-foss-2018a-Python-3.6.4	0	2018a	Y	Y				
+SWIG/3.0.12-foss-2018b-Python-3.7.0	2	2018b	Y	Y				
+ScaLAPACK/2.0.2-gompi-2016b-OpenBLAS-0.2.18-LAPACK-3.6.1	3130	2016b		Y				
+ScaLAPACK/2.0.2-gompi-2018a-OpenBLAS-0.2.20	247137	2018a						
+ScaLAPACK/2.0.2-gompi-2018b-OpenBLAS-0.3.1	16219	2018b						
+ScaLAPACK/2.0.2-gompic-2018b-OpenBLAS-0.3.1	10	2018b						
+Seq-Gen/1.3.4-GCCcore-7.3.0	252	2018b						
+Serf/1.3.9-iomkl-2018a	79	2018a						
+Siesta/4.0.1-iomkl-2018a	29	2018a						
+SimVascular/2.16.0705-intel-2018b	3	2018b	Y	Y				
+SimVascular/2.19.0719-intel-2018b	0	2018b	Y	Y				
+Spark/2.4.5	1	system	Y	Y				
+Stata/15	2775	system						
+StdEnv	181314	system						
+Subversion/1.9.7-iomkl-2018a	79	2018a						
+SuiteSparse/5.1.2-foss-2018a-METIS-5.1.0	627	2018a						
+SuiteSparse/5.1.2-foss-2018b-METIS-5.1.0	3419	2018b						
+Summovie/1.0.2	0	system	Y	Y				
+Synopsys/4.0	0	system	Y	Y				
+Szip/2.1-GCCcore-5.4.0	1	2016b	Y	Y				
+Szip/2.1-foss-2016b	12	2016b		Y				
+Szip/2.1.1-GCCcore-6.4.0	167667	2018a						
+Szip/2.1.1-GCCcore-7.3.0	5510	2018b						
+Szip/2.1.1-foss-2016b	72	2016b		Y				
+Tcl/8.6.4-foss-2016b	320	2016b		Y				
+Tcl/8.6.5-foss-2016b	97	2016b		Y				
+Tcl/8.6.7-foss-2016b	12	2016b		Y				
+Tcl/8.6.8-GCCcore-6.4.0	174369	2018a						
+Tcl/8.6.8-GCCcore-7.3.0	8977	2018b						
+TeXLive/2016	1	system	Y	Y				
+TeXLive/2019	151	system						
+TeXLive/2019-GCCcore-6.4.0	5	2018a	Y	Y				
+Tk/8.6.4-foss-2016b-no-X11	321	2016b		Y				
+Tk/8.6.5-foss-2016b	85	2016b		Y				
+Tk/8.6.7-foss-2016b	12	2016b		Y				
+Tk/8.6.8-GCCcore-7.3.0	949	2018b						
+Tk/8.6.8-foss-2018a	795	2018a						
+Tkinter/3.6.4-foss-2018a-Python-3.6.4	61	2018a						
+TopHat/2.1.1-foss-2016b	31	2016b		Y				
+TotalView/2017.1.21	1	system	Y	Y				
+UDUNITS/2.1.24-foss-2016b	12	2016b		Y				
+UDUNITS/2.2.26-foss-2018b	948	2018b						
+UDUNITS/2.2.26-iomkl-2018a	1016	2018a						
+UFL/2018.1.0-foss-2018b-Python-3.6.6	1427	2018b						
+Unblur/1.0.2	0	system	Y	Y				
+VASP/5.4.1-iomkl-2018a	11415	2018a						
+VASP/5.4.1-iomkl-2018b	3332	2018b						
+VCFtools/0.1.15-foss-2018a-Perl-5.26.1	76	2018a						
+VMD/1.9.3-foss-2018a-Python-2.7.14	775	2018a						
+VTK/8.1.1-foss-2018b-Python-3.6.6	1389	2018b						
+Vim/8.1.1209-GCCcore-6.4.0-Python-3.6.4	110	2018a						
+VinaLC/1.3.0-foss-2018b	0	2018b	Y	Y				
+WRF-Chem-deps/all-iomkl-2018a	2	2018a	Y	Y				
+WRF-Chem-deps/all-iomkl-2018b	0	2018b	Y					
+WRF-deps/all-iomkl-2018a	6	2018a	Y	Y				
+WRF-deps/all-iomkl-2018b	43	2018b						
+X11/20160819-foss-2016b	12	2016b		Y				
+X11/20180131-GCCcore-6.4.0	73033	2018a						
+X11/20180604-GCCcore-7.3.0	6321	2018b						
+XML-LibXML/2.0132-GCCcore-6.4.0-Perl-5.26.1	79	2018a						
+XML-Parser/2.44_01-GCCcore-6.4.0-Perl-5.26.1	39002	2018a						
+XML-Parser/2.44_01-GCCcore-7.3.0-Perl-5.28.0	3	2018b	Y	Y				
+XWAS/3.0	0	system	Y	Y				
+XZ/5.2.2-GCCcore-5.4.0	0	2016b	Y	Y				
+XZ/5.2.2-foss-2016b	344	2016b		Y				
+XZ/5.2.3-GCCcore-6.4.0	303182	2018a						
+XZ/5.2.4-GCCcore-7.3.0	33525	2018b						
+YAXT/0.6.0-iomkl-2018a	266	2018a						
+Yasm/1.3.0-GCCcore-6.4.0	39820	2018a						
+ZeroMQ/4.1.4-foss-2016b	12	2016b		Y				
+ZeroMQ/4.2.0-foss-2016b	11	2016b		Y				
+amber/16tools17	1135	system						
+amber/18tools19	252690	system						
+amber/20tools20	30	system						
+ant/1.9.7-Java-1.8.0_92	0	system	Y	Y				
+arpack-ng/3.5.0-foss-2018a	45771	2018a						
+arpack-ng/3.6.2-iomkl-2018a	266	2018a						
+attr/2.4.48-GCCcore-7.3.0	2	2018b	Y	Y				
+awscli/1.16.230-foss-2018a-Python-3.6.4	32	2018a						
+bcl2fastq2/2-20-0-foss-2018b	5	2018b	Y	Y				
+beagle-lib/2.1.2-foss-2016b	163	2016b		Y				
+binutils/2.26	0	system	Y				hide	
+binutils/2.26-GCCcore-5.4.0	24756	2016b		Y			hide	
+binutils/2.28	0	system	Y				hide	
+binutils/2.28-GCCcore-6.4.0	304598	2018a					hide	
+binutils/2.30	0	system	Y				hide	
+binutils/2.30-GCCcore-7.3.0	99307	2018b					hide	
+binutils/2.35	1	system	Y				hide	
+binutils/2.35-GCCcore-10.2.0	47401	system					hide	
+bzip2/1.0.6-GCCcore-5.4.0	1299	2016b		Y				
+bzip2/1.0.6-GCCcore-6.4.0	181157	2018a						
+bzip2/1.0.6-GCCcore-7.3.0	90973	2018b						
+bzip2/1.0.6-foss-2016b	783	2016b		Y				
+bzip2/1.0.8-GCCcore-10.2.0	83029	system						
+cURL/7.49.1-GCCcore-5.4.0	1	2016b	Y	Y				
+cURL/7.49.1-foss-2016b	25	2016b		Y				
+cURL/7.58.0-GCCcore-6.4.0	173620	2018a						
+cURL/7.60.0-GCCcore-7.3.0	84633	2018b						
+cURL/7.72.0-GCCcore-10.2.0	83004	system						
+cairo/1.14.12-GCCcore-6.4.0	40516	2018a						
+cairo/1.14.12-GCCcore-7.3.0	947	2018b						
+cairo/1.14.6-foss-2016b	12	2016b		Y				
+cellranger/3.1.0	54	system						
+chapel/1.20-local-qt	45	system						
+chapel/1.22-gasnet-fast-qt	58	system						
+chapel/1.22-local-qt	1	system	Y	Y				
+charmm/charmm40b1	3	system	Y	Y				
+cuDNN/7.1.1-CUDA-9.1.85	56	system						
+cuDNN/7.1.4-CUDA-9.0.176	950	system						
+cuDNN/7.6.0-CUDA-9.2.148.1	328	system						
+cuDNN/7.6.2.24-CUDA-10.0.130	442	system						
+cuDNN/7.6.2.24-CUDA-10.1.105	846	system						
+cyrus-sasl/2.1.26-foss-2016b	12	2016b		Y				
+dSQ/0.92	604	system						
+dSQ/0.93	0	system	Y	Y				
+dSQ/0.95	135	system						
+dSQ/0.96	1759	system						
+dSQ/1.0	0	system	Y	Y				
+dSQ/1.01	1	system	Y	Y				
+dSQ/1.02	1	system	Y	Y				
+dSQ/1.03	4	system	Y	Y				
+dSQ/1.04	0	system	Y	Y				
+dSQ/1.05	1351	system						
+dbus-glib/0.110-GCCcore-6.4.0	39041	2018a						
+dtcmp/1.1.0-gompi-2018b	2	2018b	Y	Y				
+ecCodes/2.8.2-iomkl-2018a	266	2018a						
+expat/2.2.0-foss-2016b	12	2016b		Y				
+expat/2.2.4-GCCcore-6.4.0	90835	2018a						
+expat/2.2.5-GCCcore-6.4.0	168872	2018a						
+expat/2.2.5-GCCcore-7.3.0	6333	2018b						
+fftw-3.3.8-intel-18.0.1-6r7j33h	153	system						
+fftw-3.3.8-intel-18.0.3-wknhuxj	48	system						
+flex/2.6.0	0	system	Y	Y				
+flex/2.6.0-GCCcore-5.4.0	0	2016b	Y	Y				
+flex/2.6.0-foss-2016b	0	2016b	Y	Y				
+flex/2.6.3	0	system	Y	Y				
+flex/2.6.4	1	system	Y	Y				
+flex/2.6.4-GCCcore-10.2.0	1	system	Y	Y				
+flex/2.6.4-GCCcore-6.4.0	0	2018a	Y	Y				
+flex/2.6.4-GCCcore-7.3.0	339	2018b						
+fontconfig/2.12.1-foss-2016b	12	2016b		Y				
+fontconfig/2.12.6-GCCcore-6.4.0	72071	2018a						
+fontconfig/2.13.0-GCCcore-7.3.0	6315	2018b						
+foss/2016b	3139	2016b					hide	
+foss/2018a	249836	2018a						
+foss/2018b	15598	2018b						
+fosscuda/2018b	10	2018b						
+freeglut/3.0.0-foss-2016b	12	2016b		Y				
+freeglut/3.0.0-foss-2018a	1897	2018a						
+freetype/2.6.5-foss-2016b	23	2016b		Y				
+freetype/2.7.1-GCCcore-5.4.0	12	2016b		Y				
+freetype/2.7.1-foss-2016b	12	2016b		Y				
+freetype/2.7.1-foss-2016b-harfbuzz-1.4.3	12	2016b		Y				
+freetype/2.9-GCCcore-6.4.0	72121	2018a						
+freetype/2.9.1-GCCcore-7.3.0	6332	2018b						
+gc/7.6.0-GCCcore-6.4.0	73780	2018a						
+gc/7.6.4-GCCcore-7.3.0	338	2018b						
+gcccuda/2018b	14	2018b						
+gettext/0.19.8	0	system	Y	Y				
+gettext/0.19.8-foss-2016b	12	2016b		Y				
+gettext/0.19.8.1	0	system	Y	Y				
+gettext/0.19.8.1-GCCcore-6.4.0	126701	2018a						
+gettext/0.19.8.1-GCCcore-6.4.0-libxml2-2.9.7	40555	2018a						
+gettext/0.19.8.1-GCCcore-7.3.0	2708	2018b						
+giflib/5.1.4-GCCcore-6.4.0	27	2018a						
+git-2.27.0-gcc-7.3.0-el553kc	48	2018b						
+git/2.14.1-GCCcore-6.4.0	97296	2018a						
+gnuplot/5.2.2-foss-2018a	629	2018a						
+golf/2018a	0	2018a	Y	Y				
+gompi/2016b	3131	2016b					hide	
+gompi/2018a	247358	2018a						
+gompi/2018b	15942	2018b						
+gompic/2018b	14	2018b						
+gperf/3.1-GCCcore-6.4.0	657	2018a						
+gperf/3.1-GCCcore-7.3.0	1408	2018b						
+gsl-2.5-intel-18.0.1-qsuiqm2	153	system						
+gsl-2.5-intel-18.0.3-z3s34dm	48	system						
+gzip/1.8-GCCcore-6.4.0	39172	2018a						
+hdf5-1.10.5-intel-18.0.1-h23uztv	153	system						
+hdf5-1.10.6-intel-18.0.3-mapykwp	48	system						
+help2man/1.47.16-GCCcore-10.2.0	1	system	Y	Y				
+help2man/1.47.4	0	system	Y	Y				
+help2man/1.47.4-GCCcore-6.4.0	0	2018a	Y	Y				
+help2man/1.47.4-GCCcore-7.3.0	0	2018b	Y	Y				
+hwloc/1.11.10-GCCcore-7.3.0	33183	2018b						
+hwloc/1.11.3-GCC-5.4.0-2.26	11160	2016b		Y				
+hwloc/1.11.3-iccifort-2016.3.210-GCC-5.4.0-2.26	5081	2016b		Y				
+hwloc/1.11.4-iccifort-2017.1.132-GCC-5.4.0-2.26	57	2016b		Y				
+hwloc/1.11.7-GCCcore-6.4.0	8	2018a	Y	Y				
+hwloc/1.11.8-GCCcore-6.4.0	311514	2018a						
+icc/2016.3.210-GCC-5.4.0-2.26	6837	2016b		Y				
+icc/2017.1.132-GCC-5.4.0-2.26	57	2016b		Y				
+icc/2018.1.163-GCC-6.4.0-2.28	51142	2018a						
+icc/2018.3.222-GCC-7.3.0-2.30	21059	2018b						
+iccifort/2016.3.210-GCC-5.4.0-2.26	6812	2016b		Y				
+iccifort/2017.1.132-GCC-5.4.0-2.26	57	2016b		Y				
+iccifort/2018.1.163-GCC-6.4.0-2.28	54192	2018a						
+iccifort/2018.3.222-GCC-7.3.0-2.30	21306	2018b						
+ifort/2016.3.210-GCC-5.4.0-2.26	6825	2016b		Y				
+ifort/2017.1.132-GCC-5.4.0-2.26	57	2016b		Y				
+ifort/2018.1.163-GCC-6.4.0-2.28	50760	2018a						
+ifort/2018.3.222-GCC-7.3.0-2.30	24995	2018b						
+iimpi/2016b	4	2016b	Y	Y				
+iimpi/2018a	39538	2018a						
+iimpi/2018b	4190	2018b						
+imkl/11.3.3.210-iimpi-2016b	4	2016b	Y	Y				
+imkl/11.3.3.210-iompi-2016.09-GCC-5.4.0-2.26	7671	2016b		Y				
+imkl/2017.1.132-iompi-2017.01	61	system						
+imkl/2018.1.163-gompi-2018a	4	2018a	Y	Y				
+imkl/2018.1.163-iimpi-2018a	39244	2018a						
+imkl/2018.1.163-iompi-2018a	49957	2018a						
+imkl/2018.3.222-iimpi-2018b	4186	2018b						
+imkl/2018.3.222-iompi-2018b	6377	2018b						
+impi/2018.1.163-iccifort-2018.1.163-GCC-6.4.0-2.28	40286	2018a						
+impi/2018.3.222-iccifort-2018.3.222-GCC-7.3.0-2.30	4202	2018b						
+impi/5.1.3.210-iccifort-2016.3.210-GCC-5.4.0-2.26	4	2016b	Y	Y				
+intel-mkl-2019.3.199-intel-18.0.1-5uszvid	153	system						
+intel-mkl-2020.1.217-intel-18.0.3-zavvy42	48	system						
+intel-mpi-2019.7.217-intel-18.0.3-b4z75iy	48	system						
+intel/2016b	4	2016b	Y	Y				
+intel/2018a	5178	2018a						
+intel/2018b	4187	2018b						
+intltool/0.51.0-GCCcore-6.4.0-Perl-5.26.1	39018	2018a						
+intltool/0.51.0-GCCcore-7.3.0-Perl-5.28.0	3	2018b	Y	Y				
+iomkl/2016.09-GCC-5.4.0-2.26	38427	2016b		Y				
+iomkl/2018a	59201	2018a						
+iomkl/2018b	6160	2018b						
+iompi/2016.09-GCC-5.4.0-2.26	5048	2016b		Y				
+iompi/2017.01	57	system						
+iompi/2018a	48557	2018a						
+iompi/2018b	6385	2018b						
+libGLU/9.0.0-foss-2016b	12	2016b		Y				
+libGLU/9.0.0-foss-2018a	41729	2018a						
+libGLU/9.0.0-foss-2018b	2382	2018b						
+libarchive/3.4.2-GCCcore-7.3.0	2	2018b	Y	Y				
+libcerf/1.5-GCCcore-6.4.0	627	2018a						
+libcircle/0.3-gompi-2018b	2	2018b	Y	Y				
+libconfig/1.7.1-GCCcore-6.4.0	130	2018a						
+libctl/4.2.0-foss-2018a	73791	2018a						
+libdap/3.19.1-GCCcore-6.4.0	465	2018a						
+libdrm/2.4.70-foss-2016b	12	2016b		Y				
+libdrm/2.4.91-GCCcore-6.4.0	41717	2018a						
+libdrm/2.4.92-GCCcore-7.3.0	2392	2018b						
+libffi/3.2.1-GCCcore-6.4.0	226784	2018a						
+libffi/3.2.1-GCCcore-7.3.0	5723	2018b						
+libffi/3.2.1-foss-2016b	86	2016b			Y?			
+libgd/2.2.5-GCCcore-6.4.0	627	2018a						
+libgeotiff/1.4.2-foss-2016b	12	2016b		Y				
+libgeotiff/1.4.2-foss-2018a	0	2018a	Y	Y				
+libgeotiff/1.4.2-foss-2018b	954	2018b						
+libgeotiff/1.5.1-GCCcore-6.4.0	45901	2018a						
+libjpeg-turbo/1.5.0-GCCcore-5.4.0	652	2016b			Y?			
+libjpeg-turbo/1.5.0-foss-2016b	12	2016b		Y				
+libjpeg-turbo/1.5.3-GCCcore-6.4.0	80809	2018a						
+libjpeg-turbo/2.0.0-GCCcore-7.3.0	4885	2018b						
+libmatheval/1.1.11-GCCcore-6.4.0	0	2018a	Y	Y				
+libmatheval/1.1.11-GCCcore-7.3.0	338	2018b						
+libpciaccess/0.14-GCCcore-6.4.0	300814	2018a						
+libpciaccess/0.14-GCCcore-7.3.0	32249	2018b						
+libpng/1.2.58	0	system	Y	Y				
+libpng/1.2.58-GCCcore-6.4.0	2775	2018a						
+libpng/1.6.24-GCCcore-5.4.0	65	2016b		Y				
+libpng/1.6.24-foss-2016b	23	2016b		Y				
+libpng/1.6.28-GCCcore-5.4.0	5318	2016b			Y?			
+libpng/1.6.34-GCCcore-6.4.0	82420	2018a						
+libpng/1.6.34-GCCcore-7.3.0	6335	2018b						
+libpthread-stubs/0.3-foss-2016b	12	2016b		Y				
+libreadline/6.3-foss-2016b	5186	2016b			Y?			
+libreadline/7.0-GCCcore-6.4.0	175330	2018a						
+libreadline/7.0-GCCcore-7.3.0	8991	2018b						
+libsndfile/1.0.28-GCCcore-7.3.0	947	2018b						
+libsodium/1.0.11-foss-2016b	23	2016b		Y				
+libspatialite/4.3.0a-foss-2018a	39099	2018a						
+libtool/2.4.6-GCCcore-5.4.0	60	2016b		Y				
+libtool/2.4.6-GCCcore-6.4.0	32	2018a						
+libtool/2.4.6-GCCcore-7.3.0	3	2018b	Y	Y				
+libtool/2.4.6-foss-2016b	0	2016b	Y	Y				
+libunistring/0.9.10-GCCcore-7.3.0	339	2018b						
+libunistring/0.9.7-GCCcore-6.4.0	73776	2018a						
+libunwind/1.2.1-GCCcore-7.3.0	1429	2018b						
+libwebp/0.6.1-foss-2016b	12	2016b		Y				
+libwebp/1.0.2-GCCcore-6.4.0	25	2018a						
+libxc/4.2.3-foss-2018b	339	2018b						
+libxc/4.2.3-intel-2018b	199	2018b						
+libxml2/2.9.4-GCCcore-5.4.0	0	2016b	Y	Y				
+libxml2/2.9.4-GCCcore-6.4.0	126689	2018a						
+libxml2/2.9.4-foss-2016b	23	2016b		Y				
+libxml2/2.9.4-foss-2016b-Python-2.7.12	0	2016b	Y	Y				
+libxml2/2.9.7-GCCcore-6.4.0	301584	2018a						
+libxml2/2.9.8-GCCcore-6.4.0	37152	2018a						
+libxml2/2.9.8-GCCcore-7.3.0	33654	2018b						
+libxslt/1.1.29-foss-2016b	11	2016b		Y				
+libxslt/1.1.32-GCCcore-6.4.0	80564	2018a			Y?			
+libxsmm/1.8.3-foss-2018b	339	2018b						
+lwgrp/1.0.2-gompi-2018b	2	2018b	Y	Y				
+lxml/4.2.0-foss-2018a-Python-2.7.14	80923	2018a			Y?			
+lz4/1.8.2-GCCcore-6.4.0	39027	2018a			Y?			
+magma/2.3.0-foss-2018a-CUDA-9.1.85	2	2018a	Y	Y				
+magma/2.3.0-iomkl-2018a-CUDA-9.1.85	148	2018a			Y			
+miniconda/4.5.12	1557	system		Y				
+miniconda/4.7.10	1488793	system						
+miniconda/4.7.12	776008	system						
+miniconda/4.8.3	163470	system						
+mothur/1.42.3	63	system						
+mothur/1.43.0	145	system						
+motif/2.3.8-foss-2018a	183	2018a			Y			
+mpifileutils/0.10.1-gompi-2018b	2	2018b	Y	Y				keep for tyler
+ncurses/6.0	0	system	Y	Y			hide	
+ncurses/6.0-GCCcore-5.4.0	39484	2016b		Y				
+ncurses/6.0-GCCcore-6.4.0	255760	2018a		Y?				
+ncurses/6.0-foss-2016b	1118	2016b		Y				
+ncurses/6.1-GCCcore-6.4.0	37164	2018a		Y?				who is using this?
+ncurses/6.1-GCCcore-7.3.0	88876	2018b						
+ncurses/6.2-GCCcore-10.2.0	83078	system						
+ncview/2.1.7-iomkl-2018a	241	2018a			Y			
+netCDF-C++4/4.3.0-iomkl-2018a	84	2018a			Y			whois using this
+netCDF-Fortran/4.4.4-foss-2018a	11	2018a		Y				
+netCDF-Fortran/4.4.4-iomkl-2018a	1096	2018a		Y?				
+netCDF-Fortran/4.4.4-iomkl-2018b	165	2018b						
+netCDF-Fortran/4.4.4-iomkl-2018b-netcdf4	0	2018b	Y	Y				
+netCDF/4.1.1-foss-2016b	1	2016b	Y	Y				
+netCDF/4.4.1.1-foss-2016b	11	2016b		Y				
+netCDF/4.5.0-foss-2016b	12	2016b		Y				
+netCDF/4.6.0-foss-2018a	55806	2018a		Y				
+netCDF/4.6.0-iomkl-2018a	1550	2018a						
+netCDF/4.6.1-foss-2018b	954	2018b						
+netCDF/4.6.1-iomkl-2018b	167	2018b						
+netCDF/4.6.1-iomkl-2018b-netcdf4	0	2018b	Y	Y				
+nettle/3.2-foss-2016b	12	2016b		Y				
+nettle/3.4-GCCcore-7.3.0	1448	2018b						
+nettle/3.4-foss-2018a	41710	2018a		Y?				who is using this?
+nettle/3.4-foss-2018b	946	2018b		Y?				who is using this? could it load 7.3.0 instead?
+npChapel/local	3	system	Y	Y				
+numactl/2.0.11-GCC-5.4.0-2.26	11155	2016b		Y				who is using this?
+numactl/2.0.11-GCCcore-5.4.0	57	2016b		Y				
+numactl/2.0.11-GCCcore-6.4.0	300858	2018a		Y?				who is using this?
+numactl/2.0.11-GCCcore-7.3.0	33202	2018b						
+numactl/2.0.11-iccifort-2016.3.210-GCC-5.4.0-2.26	5086	2016b		Y				who is using this?
+parallel/20180322-foss-2016b	1002	2016b			Y			
+patchelf/0.10-GCCcore-7.3.0	0	2018b	Y	Y				
+pestpp/4.0.12	0	system	Y	Y				
+petsc4py/3.9.1-foss-2018b-Python-3.6.6	1380	2018b						
+phyutility/2.7.1-Java-1.8	2	system	Y	Y				
+pixman/0.34.0-GCCcore-6.4.0	40456	2018a		Y?				
+pixman/0.34.0-GCCcore-7.3.0	948	2018b						
+pixman/0.34.0-foss-2016b	12	2016b		Y				
+pkg-config/0.29.1-foss-2016b	12	2016b		Y				
+pkg-config/0.29.2-GCCcore-6.4.0	0	2018a	Y	Y				
+pkg-config/0.29.2-GCCcore-7.3.0	4	2018b	Y	Y				
+polymake/3.5-foss-2018a	0	2018a	Y	Y				
+poppler/0.54.0-foss-2016b	12	2016b			Y?			
+pybind11/2.2.4-foss-2018b-Python-3.6.6	0	2018b	Y	Y				
+pytest/3.8.2-foss-2018b-Python-3.6.6	0	2018b	Y	Y				
+qchem/5.1dev	201420	system						
+qchem/5.3dev	100	system						
+qrupdate/1.1.2-foss-2018a	627	2018a			Y?			who is using this?
+quantum-espresso/6.4.1-environ-1.1-intel2018-openmpi	5415	system						
+quantum-espresso/6.5-intel2018b-openmpi	362	2018b						
+revbayes/1.1.0-foss-2018b	1	2018b	Y	Y				
+rstudio_singularity/3.6.1	6	system	Y	Y				
+slepc4py/3.9.0-foss-2018b-Python-3.6.6	1392	2018b						
+slurm-drmaa/1.0.7-foss-2016b	11	2016b			Y			
+stress-ng/0.10.02	0	system	Y				hide	
+tabix/0.2.6-GCCcore-6.4.0	50	2018a		Y				
+tbb/2017_U5-GCCcore-5.4.0	38341	2016b		Y				who is using this?
+tbb/2018_U2-GCCcore-6.4.0	152	2018a			Y?			who is using this?
+tesseract/4.0.0-GCCcore-6.4.0	3207	2018a			Y?			who is using this?
+texinfo/6.5-GCCcore-6.4.0	0	2018a	Y	Y				
+units/2.19-GCCcore-7.3.0	1	2018b	Y	Y				
+unixODBC/2.3.7-GCCcore-6.4.0	0	2018a	Y	Y				
+util-linux/2.29-foss-2016b	23	2016b		Y				
+util-linux/2.31.1-GCCcore-6.4.0	40522	2018a			Y?			who is using this?
+util-linux/2.32-GCCcore-7.3.0	6654	2018b						
+wxPython/3.0.2.0-foss-2018a-Python-2.7.14	1973	2018a			Y?			who is using this?
+wxPython/3.0.2.0-foss-2018a-Python-3.6.4	37042	2018a			Y?			who is using this?
+wxWidgets/3.0.3-foss-2018a	0	2018a	Y	Y				
+x264/20180128-GCCcore-6.4.0	39805	2018a			Y?			who is using this?
+x265/2.6-GCCcore-6.4.0	39797	2018a			Y?			
+xbitmaps/1.1.1	174	system						
+xorg-macros/1.19.1-GCCcore-6.4.0	0	2018a	Y	Y				
+xorg-macros/1.19.2-GCCcore-7.3.0	0	2018b	Y	Y				
+xprop/1.2.2-GCCcore-6.4.0-X11-20180131	1347	2018a						
+zlib/1.2.11	123	system					hide	
+zlib/1.2.11-GCCcore-10.2.0	83097	system						
+zlib/1.2.11-GCCcore-5.4.0	5476	2016b		Y				
+zlib/1.2.11-GCCcore-6.4.0	311156	2018a		Y				
+zlib/1.2.11-GCCcore-7.3.0	113064	2018b						
+zlib/1.2.8	0	system	Y				hide	
+zlib/1.2.8-GCCcore-5.4.0	2304	2016b		Y				
+zlib/1.2.8-foss-2016b	795	2016b		Y				
+zstd/1.4.0-GCCcore-6.4.0	39051	2018a			Y?			who is using this?
