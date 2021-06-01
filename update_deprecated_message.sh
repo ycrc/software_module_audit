@@ -1,0 +1,1 @@
+awk -F : 'NF {printf "%s: The module has been deprecated and is no longer supported. If you are still using it, please replace it with an up-to-date version or contact us ASAP as it will be removed shortly.\n\n", $1}' admin.list
